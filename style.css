@@ -30,25 +30,3 @@ th:hover{
 td:hover{
     background-color: #369BD5;
 }
-}
-
-table{
-    width: 80%;
-    text-align: center;
-}
-table,th ,td{
-    border: 3px double #597F01;
-    border-collapse: collapse;
-    padding: 20px;
-    text-align: center;
-}
-th{
-    text-transform: uppercase;
-    letter-spacing: 1px;
-}
-th:hover{
-    background-color:#597F01;
-}
-td:hover{
-    background-color: #369BD5;
-}
